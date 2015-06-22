@@ -45,3 +45,5 @@ gem 'jquery-turbolinks'
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
+# Use Crono is a time-based background job scheduler daemon (just like Cron)
+gem 'crono'
